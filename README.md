@@ -1,5 +1,12 @@
 # llm-customer-support-agent
 An AI-powered customer support workflow built using OpenAI, Pydantic, structured JSON outputs, validation retry loops, and tool calling.  The system validates customer queries, converts natural language into structured machine-readable data, and enables intelligent FAQ tool usage through OpenAI function calling.
+# Repository Contents
+
+| File | Description |
+|---|---|
+| `llm_customer_support_agent.ipynb` | Main notebook containing validation, structured outputs, and tool calling workflow |
+| `README.md` | Project overview and architecture |
+| `requirements.txt` | Required Python dependencies |
 
 An AI-powered customer support automation workflow built using OpenAI, Pydantic, structured JSON outputs, validation retry loops, and tool calling.
 
@@ -115,6 +122,7 @@ This project was built to explore:
 - Agent memory systems
 
 ---
+
 
 # Author 
 
