@@ -117,7 +117,6 @@ This project was built to explore:
 ---
 
 # Author 
-Oluwaseyi(John) Bamigbade
 
 John Bamigbade
 
